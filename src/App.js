@@ -3,6 +3,7 @@ import React, {useState, useEffect} from 'react';
 import Navbar from './components/Navbar';
 import Content from './components/Content';
 import Menu from './components/Menu';
+import SparkleTrail from './components/SparkleTrail';
 
 const App = () => {
   const options = ['About', 'Projects', 'Resume', 'Contact']; 
@@ -14,6 +15,7 @@ const App = () => {
 
   return (
     <div className="app-container-outer">
+      <SparkleTrail />
       <div className="app-container-inner">
       
         <Navbar options={options} current={current} updateCurrent={updateCurrent} />
