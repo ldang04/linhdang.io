@@ -19,7 +19,7 @@ const Resume = () => {
                         <img src="/assets/images/polaroid2.png" className="polaroid polaroid2" alt="Polaroid 2" />
                         <img src="/assets/images/polaroid3.png" className="polaroid polaroid3" alt="Polaroid 3" />
                     </div>
-                    <p>You can find my detailed resume <a href="https://docs.google.com/document/d/1skdxXlAGNm5yGmMDdG8loVhrRDKCJuhb/edit?usp=sharing&ouid=117939066772908887385&rtpof=true&sd=true">here</a>.</p>
+                    <p>You can find my detailed resume <a href="https://docs.google.com/document/d/1skdxXlAGNm5yGmMDdG8loVhrRDKCJuhb/pub">here</a>.</p>
                 </div>
             </div>
     </CSSTransition>

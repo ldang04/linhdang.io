@@ -24,7 +24,7 @@ const Projects = () => {
                     <li>
                         <a href="#">linhdang.io</a>
 
-                        // this website! made from <a href="#">scratch</a>. 
+                        // this website! made from <a href="https://github.com/ldang04/linhdang.io">scratch</a>. 
                     </li>
                     
                     <li>
