@@ -11,7 +11,7 @@ const Menu = ({options, current, updateCurrent}) => {
                         className="menu-btn"
                         key={index}
                         onClick={() => updateCurrent(option)}
-                        style={{ fontSize: current === option ? '5.25em' : '3.5em' }} // Corrected style attribute
+                        style={{ fontSize: current === option ? '5.25em' : '3.5em' }} 
                     >
                         {option}
                     </button>

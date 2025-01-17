@@ -18,6 +18,7 @@ const Navbar = ({options, current, updateCurrent}) => {
                         className="nav-btn break-show"
                         key={index}
                         onClick={() => updateCurrent(option)} 
+                        style={{ fontSize: current === option ? '5.25em' : '3.5em' }}
                     >
                         {option}
                     </button>

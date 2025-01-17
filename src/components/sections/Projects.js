@@ -15,7 +15,16 @@ const Projects = () => {
                 <p className="projects-desc">
                     I love transforming my Figma mockups from inklings of ideas into robust applications. Many of my projects have been collaborative works spanning organizations, hackathons, & personal quests with friends. All of them have been made with love ♥
                 </p>
+                <h2>
+                    2025
+                </h2>
+                <ul>
+                    <li>
+                        <a href="https://github.com/ldang04/CCS-Game">geochain.io</a>
 
+                        // [in progress] chain locations by their last letters.
+                    </li>
+                </ul>
                 <h2>
                     2024
                 </h2>
