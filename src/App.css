@@ -28,6 +28,7 @@ a {
   border: 1px solid black;
   border-radius: 1em;
   padding: 1em 2em 1em 2em;
+  overflow-y: scroll;
 }
 
 .navbar {
@@ -318,6 +319,18 @@ li {
 
 /* MEDIA BREAKPOINTS */
 @media screen and (max-width: 768px) {
+
+  .app-container-outer {
+    padding: 0;
+  }
+
+  .app-container-inner {
+    padding: 0.8em;
+    border-radius: 0; 
+    border: none;
+    height: 100vh;
+  }
+
   .break-hide {
     display: none; 
   }
@@ -334,9 +347,24 @@ li {
     text-align: center;
   }
 
+  .resume-container p {
+    font-size: 0.75em;
+    text-align: center;
+  }
   .navbar {
     justify-content: center; 
+    font-size: 0.3em;
   }
+
+  .navbar button {
+    padding: 0;
+    margin: 0 0.25em 0 0.25em;
+  }
+  .navbar p {
+    font-size: 5em;
+    margin-right: 0.2em;
+  }
+
   .grid-container {
     display: flex; 
     justify-content: center;
@@ -359,10 +387,6 @@ li {
 }
 
 @media screen and (max-width: 475px) {
-  body {
-
-  }
-
   .app-container-outer {
     min-height: auto;
   }

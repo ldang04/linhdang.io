@@ -8,7 +8,7 @@ const Navbar = ({options, current, updateCurrent}) => {
             <p>
                 <b>
                     <i>
-                        <a className="text-decoration-none" href="/">LD</a>
+                        <a className="text-decoration-none" id="ld-logo" href="/">LD</a>
                     </i>
                 </b>
             </p>
