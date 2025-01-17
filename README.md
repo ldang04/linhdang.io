@@ -4,4 +4,4 @@ Hello to my GitHub visitors! While this platform is ideal for showcasing source 
 
 I designed this page from scratch on Figma, and then built it as a React App. Feel free to explore!
 
-[![My website](https://imgur.com/a/5q1qNAw.png)](https://www.linhdang.io/)
+[![My website](https://i.imgur.com/scCFLE4.png)](https://www.linhdang.io/)
