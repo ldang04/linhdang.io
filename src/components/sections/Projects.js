@@ -20,9 +20,9 @@ const Projects = () => {
                 </h2>
                 <ul>
                     <li>
-                        <a href="https://github.com/ldang04/CCS-Game">geochain.io</a>
+                        <a href="#">regrade.work</a>
 
-                        // [in progress] chain locations by their last letters.
+                        // [in progress] the second look your work deserves.
                     </li>
                 </ul>
                 <h2>
