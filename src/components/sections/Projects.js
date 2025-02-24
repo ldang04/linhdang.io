@@ -24,6 +24,11 @@ const Projects = () => {
 
                         // [in progress] the second look your work deserves.
                     </li>
+                    <li>
+                        <a href="https://devpost.com/software/genmd">GenMD</a>
+
+                        // your ai-powered healthcare navigator!
+                    </li>
                 </ul>
                 <h2>
                     2024
