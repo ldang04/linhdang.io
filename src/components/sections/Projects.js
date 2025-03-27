@@ -19,6 +19,11 @@ const Projects = () => {
                     2025
                 </h2>
                 <ul>
+                     <li>
+                        <a href="https://www.figma.com/design/zMLU9Rq3gaYCQpFg1nHDG1/Solar-App?node-id=0-1&t=0yyXqPQwMBh31zaa-1">solar</a>
+
+                        // [in progress] your digital handshake.
+                    </li>
                     <li>
                         <a href="#">regrade.work</a>
 
