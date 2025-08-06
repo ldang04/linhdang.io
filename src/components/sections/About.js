@@ -25,7 +25,7 @@ const About = () => {
                     <br />
 
                     <p>
-                    I’m an undergrad at Columbia passionate about building and scaling startups. I current lead Growth at Raycaster (YC F24), and was previously an AI/ML fellow at Cornell Tech. In my free time, I love <a href="https://devpost.com/dangdiemlinh04">hacking</a>, <a href="https://www.youtube.com/@linhxeffect">making videos</a>, and poring over postmodern fiction.
+                    I'm an undergrad at Columbia passionate about building and scaling startups. I current lead Growth at Raycaster (YC F24), and was previously an AI/ML fellow at Cornell Tech. In my free time, I love <a href="https://devpost.com/dangdiemlinh04" target="_blank" rel="noopener noreferrer">hacking</a>, <a href="https://www.youtube.com/@linhxeffect" target="_blank" rel="noopener noreferrer">making videos</a>, and poring over postmodern fiction.
                     </p>
                 </div>
             </div>
