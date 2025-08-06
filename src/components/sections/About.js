@@ -25,7 +25,7 @@ const About = () => {
                     <br />
 
                     <p>
-                    I’m an undergrad at Columbia & an AI/ML fellow in Cornell’s Break Through Tech program. With a fascination for tech, startup culture, and ethics, I am passionate about leveraging technology for social good. I also love <a href="https://devpost.com/dangdiemlinh04">hacking</a>, <a href="https://www.youtube.com/@linhxeffect">making videos</a>, and poring over Haruki Murakami's latest novels.
+                    I’m an undergrad at Columbia passionate about building and scaling startups. I current lead Growth at Raycaster (YC F24), and was previously an AI/ML fellow at Cornell Tech. In my free time, I love <a href="https://devpost.com/dangdiemlinh04">hacking</a>, <a href="https://www.youtube.com/@linhxeffect">making videos</a>, and poring over postmodern fiction.
                     </p>
                 </div>
             </div>

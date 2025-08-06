@@ -20,17 +20,18 @@ const Projects = () => {
                 </h2>
                 <ul>
                      <li>
-                        <a href="https://www.figma.com/design/zMLU9Rq3gaYCQpFg1nHDG1/Solar-App?node-id=0-1&t=0yyXqPQwMBh31zaa-1">solar</a>
+                        <a href="https://www.raycaster.ai" target="_blank" rel="noopener noreferrer">raycaster.ai</a>
 
-                        // [in progress] your digital handshake.
+                        // enterprise ai for life science providers.
                     </li>
-                    <li>
-                        <a href="#">regrade.work</a>
+                     <li>
+                        <a href="https://www.connectwith.solar/" target="_blank" rel="noopener noreferrer">Solar</a>
 
-                        // [in progress] the second look your work deserves.
+                        // digital handshakes.
                     </li>
+                  
                     <li>
-                        <a href="https://devpost.com/software/genmd">GenMD</a>
+                        <a href="https://devpost.com/software/genmd" target="_blank" rel="noopener noreferrer">GenMD</a>
 
                         // your ai-powered healthcare navigator!
                     </li>
@@ -41,25 +42,19 @@ const Projects = () => {
                 {/* 2024 Project list  */}
                 <ul>
                     <li>
-                        <a href="#">linhdang.io</a>
-
-                        // this website! made from <a href="https://github.com/ldang04/linhdang.io">scratch</a>. 
-                    </li>
-                    
-                    <li>
-                        <a href="https://www.columbiadivhacks.org/">columbiadivhacks.org</a>
+                        <a href="https://www.columbiadivhacks.org/" target="_blank" rel="noopener noreferrer">columbiadivhacks.org</a>
 
                         // empowering diversity in tech. 
                     </li>
 
                     <li>
-                        <a href="https://devpost.com/software/futon">Futon</a>
+                        <a href="https://devpost.com/software/futon" target="_blank" rel="noopener noreferrer">Futon</a>
 
                         // visiting colleges? grab a futon. 
                     </li>
 
                     <li>
-                        <a href="https://devpost.com/software/welly-up9sir">Welly</a>
+                        <a href="https://devpost.com/software/welly-up9sir" target="_blank" rel="noopener noreferrer">Welly</a>
 
                         // invest in your mental health!
                     </li>
